@@ -72,10 +72,4 @@ You can view all of my verified certificates on [my LinkedIn Certifications Page
   <a href="https://twitter.com/mcanerarslan" target="_blank" style="display:inline-flex; align-items:center; gap:8px; margin:5px 10px; padding:8px 14px; border:1px solid gray; border-radius:8px; text-decoration:none; color:inherit; font-family:sans-serif; font-size:14px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="28" />
   </a>
-  <a href="https://vsco.co/mcanerarslan" target="_blank" style="display:inline-flex; align-items:center; gap:8px; margin:5px 10px; padding:8px 14px; border:1px solid gray; border-radius:8px; text-decoration:none; color:inherit; font-family:sans-serif; font-size:14px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/355/355988.png" alt="VSCO" width="28" />
-  </a>
-  <a href="https://youtube.com/@mcanerarslan" target="_blank" style="display:inline-flex; align-items:center; gap:8px; margin:5px 10px; padding:8px 14px; border:1px solid gray; border-radius:8px; text-decoration:none; color:inherit; font-family:sans-serif; font-size:14px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="28" />
-  </a>
 </p>
