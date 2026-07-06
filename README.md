@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Caner Arslan.</h1>
 
-I’m a second-year Computer Engineering student at Istanbul Okan University, passionate about software development and building strong technical foundations.
+I am a third-year Computer Engineering student at Istanbul Okan University, passionate about software development and building strong technical foundations.
 
 I completed the English Preparatory Program in the 2023–2024 academic year and began my studies in the fully English-taught Computer Engineering program.
 
