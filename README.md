@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Coding Animation" width="700"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm M. Caner Arslan.</h1>
 
 I am a third-year Computer Engineering student at Istanbul Okan University, passionate about software development and building strong technical foundations.
@@ -8,9 +12,9 @@ I’m interested in programming, problem-solving, and learning new technologies.
 
 I am open to learning, meeting new people, and creating together.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+welcome+to+my+GitHub!;I%27m+a+Computer+Engineering+student+%F0%9F%92%BB;Currently+learning+Java+%E2%98%95;Coding+is+my+passion+%F0%9F%9A%80;I+love+learning+new+things+%F0%9F%93%9A&center=true&width=500&height=45">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcanerarslan&label=Profile%20views&color=0e75b6&style=flat" alt="mcanerarslan" /> </p>
+
+
 
 ---
 
@@ -52,9 +56,8 @@ You can view all of my verified certificates on [my LinkedIn Certifications Page
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcanerarslan&layout=compact&theme=default" alt="top langs"/>
-</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcanerarslan&" alt="mcanerarslan" /></p>
 
 ---
 
